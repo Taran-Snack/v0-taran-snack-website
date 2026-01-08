@@ -1,2 +1,2 @@
-# Taran Snack website (github served)
+# Taran Snack website
 

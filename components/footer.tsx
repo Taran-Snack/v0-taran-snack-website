@@ -15,7 +15,7 @@ export function Footer() {
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-12">
           {/* Brand */}
           <div className="lg:col-span-2">
-            <h2 className="font-serif text-4xl italic">Taran</h2>
+            <h2 className="font-serif text-3xl italic">Croque d'art Taran Snack Food</h2>
             <p className="mt-4 text-background/70 max-w-md leading-relaxed">{t("footerDesc")}</p>
             <div className="flex gap-4 mt-6">
               <Button
@@ -80,7 +80,7 @@ export function Footer() {
 
         <div className="mt-16 pt-8 border-t border-background/20 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-sm text-background/50">
-            © 2025 Taran. {t("madeWith")} ❤️ {t("inSwitzerland")}
+            © 2025 Croque d'art Taran Snack Food. {t("madeWith")} ❤️ {t("inSwitzerland")}
           </p>
           <p className="text-sm text-background/50">taran-snack.com</p>
         </div>
